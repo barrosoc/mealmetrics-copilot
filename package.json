@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "start": "node server.js",
+    "dev": "devserver",
+    "build": "webpack --mode production",
+    "devserver": "nodemon pages/api/server.js"
+  },
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
