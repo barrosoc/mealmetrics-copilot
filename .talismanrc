@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: pages/api/generateInfo.js
+  checksum: 717afe445f6a8a1212be8f6a74452c0aacd71ae9106bcd6a76cb5c4b27982274
+version: ""
